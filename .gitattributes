@@ -1,0 +1,6 @@
+# 自動生成(webapp/publish_public_site.mjs)。直接編集しないこと。
+# GitHub の「Source code (zip/tar.gz)」と「Download ZIP」の中身を、README と
+# 例題(examples/)だけにする。サイト本体(Web 版)は https://ks278810.github.io/BayesRobo/ で使う。
+/* export-ignore
+/README.md -export-ignore
+/examples -export-ignore
